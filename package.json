@@ -22,7 +22,7 @@
   "homepage": "https://github.com/SavjeeTutorials/SavjeeCoin",
   "dependencies": {
     "debug": "^4.1.1",
-    "elliptic": "^6.5.1"
+    "elliptic": "^6.5.4"
   },
   "devDependencies": {
     "coveralls": "^3.0.6",
